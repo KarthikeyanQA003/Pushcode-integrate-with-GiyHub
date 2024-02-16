@@ -21,7 +21,7 @@ public class DatabaseTestinhg {
 		String insertQuery ="INSERT INTO students VALUES(13, 'Peter', 3523523, 32)";
 		statement.execute(insertQuery );
 		connection.close();
-		System.out.println("sccess");
+		System.out.println("sccess")
         }
 	
 
