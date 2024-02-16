@@ -30,4 +30,6 @@ public class DatabaseTestinhg {
         //+ "VALUES('" +field_setNumber+"','"+field_repNumber+"','"+field_weightAmount+"')";
 //statement.executeUpdate(insert);
 
-
+//String insert ="INSERT INTO `workout`.`workoutlogs`" + " (`SetNumber`, `RepNumber` , `WeightAmount`)"
+        //+ "VALUES('" +field_setNumber+"','"+field_repNumber+"','"+field_weightAmount+"')";
+//statement.executeUpdate(insert);
