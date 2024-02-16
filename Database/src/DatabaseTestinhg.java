@@ -22,6 +22,7 @@ public class DatabaseTestinhg {
 		statement.execute(insertQuery );
 		connection.close();
 		System.out.println("sccess"):
+			System.out.println("sccess"):
         }
 	
 
